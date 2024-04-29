@@ -1,0 +1,17 @@
+mode: set
+wansanjou/adapters/gorm_adapters.go:14.64,16.2 1 1
+wansanjou/adapters/gorm_adapters.go:18.60,19.56 1 1
+wansanjou/adapters/gorm_adapters.go:19.56,21.3 1 1
+wansanjou/adapters/gorm_adapters.go:23.2,23.12 1 1
+wansanjou/adapters/http_adapters.go:15.71,17.2 1 1
+wansanjou/adapters/http_adapters.go:19.60,21.46 2 1
+wansanjou/adapters/http_adapters.go:21.46,24.4 2 1
+wansanjou/adapters/http_adapters.go:26.3,26.54 1 1
+wansanjou/adapters/http_adapters.go:26.54,29.4 1 1
+wansanjou/adapters/http_adapters.go:31.3,31.51 1 1
+wansanjou/core/order_service.go:13.57,15.2 1 1
+wansanjou/core/order_service.go:17.59,19.22 1 1
+wansanjou/core/order_service.go:19.22,21.3 1 1
+wansanjou/core/order_service.go:23.2,23.44 1 1
+wansanjou/core/order_service.go:23.44,25.3 1 1
+wansanjou/core/order_service.go:27.2,27.12 1 1
